@@ -1,6 +1,12 @@
-
 @include('layouts.header')
 @include('layouts.sidebar')
+
+<style>
+    .input {
+        display: block;
+        width: 100%;
+    }
+</style>
 
 <section class="home_banner_area">
     <div class="container box_1620">
@@ -28,7 +34,7 @@
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             </ul>
-                            <div class="more_btn" style="text-align: left; " >
+                            <div class="more_btn" style="text-align: left; ">
                                 <a class="main_btn" href="#" style="background-image: -webkit-linear-gradient(
                 0deg, #000000 0%, #88f3ff 100%);">Download CV</a>
                             </div>
@@ -77,55 +83,38 @@
                 </div>
             </div>
             <div class="col-lg-6">
+
+                <h4 style="color: black">Skill Eveluator</h4>
+                <p>You are the judger of my skills &#128512. Scroll here! </p>
+
                 <div class="tools_expert">
                     <div class="skill_main">
                         <div class="skill_item">
-                            <h4>After Effects <span class="counter">85</span>%</h4>
+                            <h4>HMTL <span class="counter" id="counterHTML">100</span>%</h4>
                             <div class="progress_br">
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0"
-                                         aria-valuemax="100"></div>
+                                    <input onchange="updateHTML(this.value);" id="slide-range" class="input" type="range" min="0"
+                                           max="100"
+                                           step="1" value="100" style="">
                                 </div>
                             </div>
                         </div>
                         <div class="skill_item">
-                            <h4>Photoshop <span class="counter">90</span>%</h4>
+                            <h4>PHP &nbsp; &nbsp;<span class="counter" id="counterPHP">100</span>%</h4>
                             <div class="progress_br">
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                         aria-valuemax="100"></div>
+                                    <input onchange="updatePHP(this.value);" id="slide-range" class="input" type="range" min="0"
+                                           max="100"
+                                           step="1" value="100" style="">
                                 </div>
                             </div>
                         </div>
-                        <div class="skill_item">
-                            <h4>Illustrator <span class="counter">70</span>%</h4>
-                            <div class="progress_br">
-                                <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0"
-                                         aria-valuemax="100"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="skill_item">
-                            <h4>Sublime <span class="counter">95</span>%</h4>
-                            <div class="progress_br">
-                                <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0"
-                                         aria-valuemax="100"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="skill_item">
-                            <h4>Sketch <span class="counter">75</span>%</h4>
-                            <div class="progress_br">
-                                <div class="progress">
-                                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0"
-                                         aria-valuemax="100"></div>
-                                </div>
-                            </div>
-                        </div>
+
+
                     </div>
                 </div>
+
+
             </div>
         </div>
     </div>
@@ -420,5 +409,17 @@
         </div>
     </div>
 </section>
+
+<script>
+    function updateHTML(val) {
+        console.log(val)
+        document.getElementById("counterHTML").innerHTML = +val;
+    }
+    function updatePHP(val) {
+        console.log(val)
+        document.getElementById("counterPHP").innerHTML = +val;
+    }
+
+</script>
 
 @include('layouts.footer')
