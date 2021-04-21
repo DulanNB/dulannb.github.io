@@ -6,6 +6,33 @@
         display: block;
         width: 100%;
     }
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+
+        input[type=range]{
+            -webkit-appearance: none;
+        }
+
+        input[type=range]::-webkit-slider-runnable-track {
+            width: 300px;
+            height: 5px;
+            background: linear-gradient(to right, #000000 0%, #88f3ff 100%);
+            border: none;
+            border-radius: 3px;
+        }
+
+        input[type=range]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            border: none;
+            height: 16px;
+            width: 16px;
+
+            background: #0e0e2f;
+            margin-top: -4px;
+        }
+
+
+
+    }
 </style>
 
 <section class="home_banner_area">
@@ -35,8 +62,8 @@
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             </ul>
                             <div class="more_btn" style="text-align: left; ">
-                                <a class="main_btn" href="#" style="background-image: -webkit-linear-gradient(
-                0deg, #000000 0%, #88f3ff 100%);">Download CV</a>
+                                <a class="main_btn" href="https://dulan.quotesalad.com/cv/dulanbandara.pdf" style="background-image: -webkit-linear-gradient(
+                0deg, #000000 0%, #88f3ff 100%);" download="https://dulan.quotesalad.com/cv/dulanbandara.pdf">Download CV</a>
                             </div>
                         </div>
                     </div>
