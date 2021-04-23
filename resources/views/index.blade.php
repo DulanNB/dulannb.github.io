@@ -41,7 +41,7 @@
             <div class="banner_content">
                 <div class="media">
                     <div class="d-flex">
-                        <img src="img/me.JPEG" alt="">
+                        <img src="img/me.jpeg" alt="">
                     </div>
                     <div class="media-body">
                         <div class="personal_text">
