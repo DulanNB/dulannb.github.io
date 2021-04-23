@@ -10,10 +10,9 @@
                         put into improving your skills,</p>
                     <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                        All rights reserved | This template is made with <i class="fa fa-heart-o"
+                        All rights reserved | This website is made with <i class="fa fa-heart-o"
                                                                             aria-hidden="true"></i> by <a
-                            href="https://colorlib.com" target="_blank">Colorlib--- Downloaded from <a
-                                href="https://themeslab.org/" target="_blank">Themeslab</a></a>
+                            href="https://dulan.quotesalad.com" target="_blank">Dulan N</a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                 </aside>
             </div>

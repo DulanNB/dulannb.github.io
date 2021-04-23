@@ -41,7 +41,7 @@
             <div class="banner_content">
                 <div class="media">
                     <div class="d-flex">
-                        <img src="img/personal.jpg" alt="">
+                        <img src="img/me.JPEG" alt="">
                     </div>
                     <div class="media-body">
                         <div class="personal_text">
@@ -183,11 +183,11 @@
             <ul class="nav nav-tabs" id="myTab" role="tablist">
                 <li class="nav-item">
                     <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
-                       aria-controls="home" aria-selected="true">My Experiences</a>
+                       aria-controls="home" aria-selected="true">My Education</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
-                       aria-controls="profile" aria-selected="false">My Education</a>
+                       aria-controls="profile" aria-selected="false">My Experiences</a>
                 </li>
             </ul>
             <div class="tab-content" id="myTabContent">
@@ -197,11 +197,59 @@
                             <span></span>
                             <div class="media">
                                 <div class="d-flex">
-                                    <p>March 2017 to present</p>
+                                    <p>BSC Hons in<br>Computing 2023 <br> (Undergraduate) &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
                                 </div>
                                 <div class="media-body">
-                                    <h4>Colorlib</h4>
-                                    <p>Senior Web Developer <br/>Santa monica, Los angeles</p>
+                                    <h5 style="color: white">NIBM</h5>
+                                    <p>Colombo</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <span></span>
+                            <div class="media">
+                                <div class="d-flex">
+                                    <p>Higher National Diploma in<br>Software Engineering 2019 &nbsp;&nbsp;&nbsp;</p>
+                                </div>
+                                <div class="media-body">
+                                    <h5 style="color: white">NIBM</h5>
+                                    <p>Kandy</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <span></span>
+                            <div class="media">
+                                <div class="d-flex">
+                                    <p>Diploma in<br> Software Engineering 2018 &nbsp;&nbsp;&nbsp; </p>
+                                </div>
+                                <div class="media-body">
+                                    <h5 style="color: white">NIBM</h5>
+                                    <p>Kandy</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <span></span>
+                            <div class="media">
+                                <div class="d-flex">
+                                    <p>Advanced Level examination<br>Mathematics Stream<br> 2017</p>
+                                </div>
+                                <div class="media-body">
+                                    <h5 style="color: white">Govt. Science College</h5>
+                                    <p>Matale</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <span></span>
+                            <div class="media">
+                                <div class="d-flex">
+                                    <p>Ordinary Level examination 	&nbsp; <br> 2014</p>
+                                </div>
+                                <div class="media-body">
+                                    <h5 style="color: white">Govt. Science College</h5>
+                                    <p>Matale</p>
                                 </div>
                             </div>
                         </li>
@@ -213,35 +261,11 @@
                             <span></span>
                             <div class="media">
                                 <div class="d-flex">
-                                    <p>March 2017 to present</p>
+                                    <p>May 2020 to present</p>
                                 </div>
                                 <div class="media-body">
-                                    <h4>Colorlib</h4>
-                                    <p>Senior Web Developer <br/>Santa monica, Los angeles</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <span></span>
-                            <div class="media">
-                                <div class="d-flex">
-                                    <p>March 2017 to present</p>
-                                </div>
-                                <div class="media-body">
-                                    <h4>Colorlib</h4>
-                                    <p>Senior Web Developer <br/>Santa monica, Los angeles</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <span></span>
-                            <div class="media">
-                                <div class="d-flex">
-                                    <p>March 2017 to present</p>
-                                </div>
-                                <div class="media-body">
-                                    <h4>Colorlib</h4>
-                                    <p>Senior Web Developer <br/>Santa monica, Los angeles</p>
+                                    <h4>WEBTUDE</h4>
+                                    <p>Junior Full Stack Web Developer <br/>Webtude (PVT) LTD, Dehiwala</p>
                                 </div>
                             </div>
                         </li>
@@ -258,32 +282,28 @@
     <div class="container">
         <div class="main_title">
             <h2>offerings to my clients</h2>
-            <p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.
-                You may see some for as low as $.17 each.</p>
+            <p>If you are looking for build your website or Fix any bug in your existing system im here to help you! </p>
         </div>
         <div class="feature_inner row">
             <div class="col-lg-4 col-md-6">
                 <div class="feature_item">
-                    <i class="flaticon-city"></i>
-                    <h4>Architecture</h4>
-                    <p>If you are looking at blank cassettes on the web, you may be very confused at the difference in
-                        price. You may see some for as low as $17 each.</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="feature_item">
-                    <i class="flaticon-skyline"></i>
-                    <h4>Interior Design</h4>
-                    <p>If you are looking at blank cassettes on the web, you may be very confused at the difference in
-                        price. You may see some for as low as $17 each.</p>
+                    <i class="flaticon-sketch"></i>
+                    <h4>Web design and Development</h4>
+                    <p>I will design your both back-end and front-end from the scratch.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="feature_item">
                     <i class="flaticon-sketch"></i>
-                    <h4>Concept Design</h4>
-                    <p>If you are looking at blank cassettes on the web, you may be very confused at the difference in
-                        price. You may see some for as low as $17 each.</p>
+                    <h4>Bug Fixing or Redesigning your existing system</h4>
+                    <p>I will fix any bug in your existing system that related to PHP Laravel, HTML, CSS</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="feature_item">
+                    <i class="flaticon-sketch"></i>
+                    <h4>Web Deployment and Hosting</h4>
+                    <p>I Will publish your website into Internet with best quality.</p>
                 </div>
             </div>
         </div>
@@ -313,139 +333,138 @@
             <div class="col-lg-4 col-md-4 col-sm-6 brand manipul design print">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
-                        <img class="img-fluid" src="img/gallery/project-1.jpg" alt="">
-                        <a class="light" href="img/gallery/project-1.jpg"><img src="img/gallery/icon.png" alt=""></a>
+                        <img class="img-fluid" src="img/works/dogs.png" alt="">
+                        <a class="light" href="img/works/dogs.png" target="_blank"><img src="img/gallery/icon.png" alt=""></a>
                     </div>
                     <div class="g_item_text">
-                        <h4>3D Helmet Design</h4>
-                        <p>Client Project</p>
+                        <a href="https://dogs.lk/" target="_blank"><h4>Dogs.lk</h4></a>
+                        <a href="https://dogs.lk/" target="_blank"><p>Webtude Project</p></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 brand manipul creative">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
-                        <img class="img-fluid" src="img/gallery/project-2.jpg" alt="">
-                        <a class="light" href="img/gallery/project-2.jpg"><img src="img/gallery/icon.png" alt=""></a>
+                        <img class="img-fluid" src="img/works/cjbfactory.png" alt="">
+                        <a class="light" href="img/works/cjbfactory.png" target="_blank"><img src="img/gallery/icon.png" alt=""></a>
                     </div>
                     <div class="g_item_text">
-                        <h4>2D Vinyl Design</h4>
-                        <p>Client Project</p>
+                        <a href="https://cjbfactory.com/" target="_blank"><h4>cjbfactory.com</h4></a>
+                        <a href="https://cjbfactory.com/" target="_blank"><p>Client Project</p></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 manipul creative design print">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
-                        <img class="img-fluid" src="img/gallery/project-3.jpg" alt="">
-                        <a class="light" href="img/gallery/project-3.jpg"><img src="img/gallery/icon.png" alt=""></a>
+                        <img class="img-fluid" src="img/works/webtude.png" alt="">
+                        <a class="light" href="img/works/webtude.png" target="_blank"><img src="img/gallery/icon.png" alt=""></a>
                     </div>
                     <div class="g_item_text">
-                        <h4>Creative Poster Design</h4>
-                        <p>Client Project</p>
+                        <a href="https://webtude.com/" target="_blank"><h4>webtude.com</h4></a>
+                        <a href="https://webtude.com/" target="_blank"><p>Webtude Project</p></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 brand creative print">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
-                        <img class="img-fluid" src="img/gallery/project-4.jpg" alt="">
-                        <a class="light" href="img/gallery/project-4.jpg"><img src="img/gallery/icon.png" alt=""></a>
+                        <img class="img-fluid" src="img/works/quotegallery.png" alt="">
+                        <a class="light" href="img/works/quotegallery.png" target="_blank"><img src="img/gallery/icon.png" alt=""></a>
                     </div>
                     <div class="g_item_text">
-                        <h4>Embosed Logo Design</h4>
-                        <p>Client Project</p>
+                        <a href="https://quote.quotesalad.com/" target="_blank"><h4>quotegallery.com</h4></a>
+                        <a href="https://quote.quotesalad.com/" target="_blank"><p>Client Project</p></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 brand manipul design">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
-                        <img class="img-fluid" src="img/gallery/project-5.jpg" alt="">
-                        <a class="light" href="img/gallery/project-5.jpg"><img src="img/gallery/icon.png" alt=""></a>
+                        <img class="img-fluid" src="img/works/quotesalad.png" alt="">
+                        <a class="light" href="img/works/quotesalad.png" target="_blank"><img src="img/gallery/icon.png" alt=""></a>
                     </div>
                     <div class="g_item_text">
-                        <h4>3D Disposable Bottle</h4>
-                        <p>Client Project</p>
+                        <a href="https://quotesalad.com/" target="_blank"><h4>quotesalad.com</h4></a>
+                        <a href="https://quotesalad.com/" target="_blank"><p>Client Project</p></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 brand creative">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
-                        <img class="img-fluid" src="img/gallery/project-6.jpg" alt="">
-                        <a class="light" href="img/gallery/project-6.jpg"><img src="img/gallery/icon.png" alt=""></a>
+                        <img class="img-fluid" src="img/works/aqua.png" alt="">
+                        <a class="light" href="img/works/aqua.png" target="_blank"><img src="img/gallery/icon.png" alt=""></a>
                     </div>
                     <div class="g_item_text">
-                        <h4>3D Logo Design</h4>
-                        <p>Client Project</p>
+                        <a href="https://aqua.webtude.com/" target="_blank"><h4>aquaplanet.com</h4></a>
+                        <a href="https://aqua.webtude.com/" target="_blank"><p>Webtude Project</p></a>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="more_btn">
-            <a class="main_btn" href="#">Load More Items</a>
-        </div>
+
     </div>
 </section>
 <!--================End Home Gallery Area =================-->
 
 <!--================Testimonials Area =================-->
-<section class="testimonials_area p_120">
-    <div class="container">
-        <div class="main_title">
-            <h2>Testimonials</h2>
-            <p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.
-                You may see some for as low as $.17 each.</p>
-        </div>
-        <div class="testi_inner">
-            <div class="testi_slider owl-carousel">
-                <div class="item">
-                    <div class="testi_item">
-                        <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If
-                            you think about it, you travel across her face</p>
-                        <h4>Fanny Spencer</h4>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star-half-o"></i></a>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="testi_item">
-                        <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If
-                            you think about it, you travel across her face</p>
-                        <h4>Fanny Spencer</h4>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star-half-o"></i></a>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="testi_item">
-                        <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If
-                            you think about it, you travel across her face</p>
-                        <h4>Fanny Spencer</h4>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star"></i></a>
-                        <a href="#"><i class="fa fa-star-half-o"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+{{--<section class="testimonials_area p_120">--}}
+{{--    <div class="container">--}}
+{{--        <div class="main_title">--}}
+{{--            <h2>Testimonials</h2>--}}
+{{--            <p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.--}}
+{{--                You may see some for as low as $.17 each.</p>--}}
+{{--        </div>--}}
+{{--        <div class="testi_inner">--}}
+{{--            <div class="testi_slider owl-carousel">--}}
+{{--                <div class="item">--}}
+{{--                    <div class="testi_item">--}}
+{{--                        <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If--}}
+{{--                            you think about it, you travel across her face</p>--}}
+{{--                        <h4>Fanny Spencer</h4>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star-half-o"></i></a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="item">--}}
+{{--                    <div class="testi_item">--}}
+{{--                        <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If--}}
+{{--                            you think about it, you travel across her face</p>--}}
+{{--                        <h4>Fanny Spencer</h4>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star-half-o"></i></a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="item">--}}
+{{--                    <div class="testi_item">--}}
+{{--                        <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If--}}
+{{--                            you think about it, you travel across her face</p>--}}
+{{--                        <h4>Fanny Spencer</h4>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star"></i></a>--}}
+{{--                        <a href="#"><i class="fa fa-star-half-o"></i></a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</section>--}}
 
 <script>
     function updateHTML(val) {
         console.log(val)
         document.getElementById("counterHTML").style.visibility = "visible";
         document.getElementById("counterHTML").innerHTML = +val+"%";
+
     }
 
     function updatePHP(val) {
