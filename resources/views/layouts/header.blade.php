@@ -24,6 +24,6 @@
 <style>
     .home_banner_area {
         background-image: -webkit-linear-gradient(
-            0deg, #000000 0%, #88f3ff 100%);
+            0deg, #000000 0%, #227483 100%);
     }
 </style>
