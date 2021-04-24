@@ -43,10 +43,10 @@
                     </div>
                     <p>Let us be social</p>
                     <ul class="list">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                        <li><a href="https://www.facebook.com/dulan.bandara.75/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/dulanbandara" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://github.com/DulanNB" target="_blank"><i class="fa fa-github"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/dulann-bandara-b32650140/" target="_blank"><i class="fa fa-twitter"></i></a></li>
                     </ul>
                 </aside>
             </div>

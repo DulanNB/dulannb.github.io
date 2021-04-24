@@ -16,3 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::post('/contact/message','App\Http\Controllers\ContactController@store')->name('contact.store');

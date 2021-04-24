@@ -57,9 +57,11 @@
                                 <li><a href="#"><i class="lnr lnr-envelope"></i> dulan418@gmail.com </a></li>
                             </ul>
                             <ul class="list personal_social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://www.facebook.com/dulan.bandara.75/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/dulanbandara" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://github.com/DulanNB" target="_blank"><i class="fa fa-github"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/dulann-bandara-b32650140/" target="_blank"><i class="fa fa-twitter"></i></a></li>
+
                             </ul>
                             <div class="more_btn" style="text-align: left; ">
                                 <a class="main_btn" href="https://dulan.quotesalad.com/cv/dulanbandara.pdf" style="background-image: -webkit-linear-gradient(
@@ -315,22 +317,23 @@
 <section class="home_gallery_area p_120">
     <div class="container">
         <div class="main_title">
-            <h2>Our Latest Featured Projects</h2>
-            <p>Who are in extremely love with eco friendly system.</p>
+            <h2>My Latest Featured Projects</h2>
+            <p>The projects are made with my heart and soul</p>
         </div>
         <div class="isotope_fillter">
             <ul class="gallery_filter list">
                 <li class="active" data-filter="*"><a href="#">All</a></li>
-                <li data-filter=".brand"><a href="#">Vector</a></li>
-                <li data-filter=".manipul"><a href="#">Raster</a></li>
-                <li data-filter=".creative"><a href="#">UI/UX</a></li>
-                <li data-filter=".design"><a href="#">Printing</a></li>
+                <li data-filter=".E-Commerce"><a href="#">E-Commerce</a></li>
+                <li data-filter=".Classified"><a href="#">Classified Ads</a></li>
+                <li data-filter=".Company"><a href="#">Company CMS</a></li>
+                <li data-filter=".Portfolio"><a href="#">Portfolio</a></li>
+                <li data-filter=".Entertainment"><a href="#">Entertainment</a></li>
             </ul>
         </div>
     </div>
     <div class="container">
         <div class="gallery_f_inner row imageGallery1">
-            <div class="col-lg-4 col-md-4 col-sm-6 brand manipul design print">
+            <div class="col-lg-4 col-md-4 col-sm-6 Classified">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
                         <img class="img-fluid" src="img/works/dogs.png" alt="">
@@ -342,7 +345,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 brand manipul creative">
+            <div class="col-lg-4 col-md-4 col-sm-6 brand Portfolio">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
                         <img class="img-fluid" src="img/works/cjbfactory.png" alt="">
@@ -354,7 +357,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 manipul creative design print">
+            <div class="col-lg-4 col-md-4 col-sm-6 Company">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
                         <img class="img-fluid" src="img/works/webtude.png" alt="">
@@ -366,7 +369,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 brand creative print">
+            <div class="col-lg-4 col-md-4 col-sm-6 Entertainment">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
                         <img class="img-fluid" src="img/works/quotegallery.png" alt="">
@@ -378,7 +381,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 brand manipul design">
+            <div class="col-lg-4 col-md-4 col-sm-6 E-Commerce">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
                         <img class="img-fluid" src="img/works/quotesalad.png" alt="">
@@ -390,7 +393,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 brand creative">
+            <div class="col-lg-4 col-md-4 col-sm-6 E-Commerce">
                 <div class="h_gallery_item">
                     <div class="g_img_item">
                         <img class="img-fluid" src="img/works/aqua.png" alt="">
