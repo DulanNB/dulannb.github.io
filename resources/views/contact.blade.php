@@ -14,10 +14,32 @@
     }.banner_area .box_1620 {
          bottom: 0px
      }
-    .p_120 {
-         padding-top:80px;
+    .contact_area {
+         padding-top:0px;
          padding-bottom: 120px;
     }
+    .loader {
+        align-content: center;
+        border: 16px solid #f3f3f3;
+        border-top: 16px solid #2d2f30;
+        border-radius: 50%;
+        margin-bottom: 50px;
+        width: 60px;
+        height: 60px;
+        animation: spin 2s linear infinite;
+     }
+
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+    .banner_area .banner_inner .banner_content h2 {
+        margin-top: 200px;
+    }
+    .banner_area{
+        bottom: 103px;
+    }
+
 </style>
 
 <section class="banner_area">
@@ -35,15 +57,19 @@
         </div>
     </div>
 </section>
-<!--================End Home Banner Area =================-->
 
-<!--================Contact Area =================-->
+<div class="d-flex justify-content-center" id="loader" style="visibility: hidden">
+    <div class="loader align-self-center"  ></div>
+</div>
+
 <section class="contact_area p_120">
     <div class="container">
 
         <div class="row">
             <div class="col-lg-3">
                 <div class="contact_info">
+
+
                     <div class="info_item">
                         <i class="lnr lnr-home"></i>
                         <h6>Kandy, SriLanka</h6>
@@ -95,6 +121,8 @@
         </div>
     </div>
 </section>
+
+
 
 
 <div id="success" class="modal modal-message fade" role="dialog">

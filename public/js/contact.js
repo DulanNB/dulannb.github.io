@@ -55,6 +55,7 @@ $(document).ready(function(){
                 }
             },
             submitHandler: function(form) {
+                document.getElementById('loader').style.visibility="visible"
                 console.log(form)
                 $.ajaxSetup({
                     headers: {
@@ -66,6 +67,7 @@ $(document).ready(function(){
                     data: $(form).serialize(),
                     url:$(form).attr('action'),
                     success: function() {
+                        document.getElementById('loader').style.visibility="hidden"
                         $('#contactForm :input').attr('disabled', 'disabled');
                         $('#contactForm').fadeTo( "slow", 1, function() {
                             $(this).find(':input').attr('disabled', 'disabled');
@@ -76,6 +78,7 @@ $(document).ready(function(){
                         })
                     },
                     error: function() {
+                        document.getElementById('loader').style.visibility="hidden"
                         $('#contactForm').fadeTo( "slow", 1, function() {
                             $('#error').fadeIn()
                             $('.modal').modal('hide');
