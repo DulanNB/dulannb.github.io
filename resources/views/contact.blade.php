@@ -23,12 +23,14 @@
         border: 16px solid #f3f3f3;
         border-top: 16px solid #2d2f30;
         border-radius: 50%;
-        margin-bottom: 50px;
+        margin-bottom: 10px;
         width: 60px;
         height: 60px;
         animation: spin 2s linear infinite;
      }
-
+    .contact_area {
+        margin-top: -205px;
+    }
     @keyframes spin {
         0% { transform: rotate(0deg); }
         100% { transform: rotate(360deg); }
@@ -58,11 +60,12 @@
     </div>
 </section>
 
-<div class="d-flex justify-content-center" id="loader" style="visibility: hidden">
-    <div class="loader align-self-center"  ></div>
-</div>
+
 
 <section class="contact_area p_120">
+    <div class="d-flex justify-content-center" id="loader" style="visibility: hidden">
+        <div class="loader align-self-center"  ></div>
+    </div>
     <div class="container">
 
         <div class="row">
