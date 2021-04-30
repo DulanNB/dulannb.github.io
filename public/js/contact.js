@@ -56,7 +56,7 @@ $(document).ready(function(){
             },
             submitHandler: function(form) {
                 document.getElementById('loader').style.visibility="visible"
-                console.log(form)
+
                 $.ajaxSetup({
                     headers: {
                         'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
